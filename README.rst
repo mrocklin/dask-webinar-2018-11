@@ -16,5 +16,5 @@ Features
 .. _pangeo.binder.io: http://binder.pangeo.io/
 
 .. |Binder| image:: http://binder.pangeo.io/badge.svg
-    :target: http://binder.pangeo.io/v2/gh/mrocklin/dask_webinar_2018_11/master
+    :target: http://binder.pangeo.io/v2/gh/mrocklin/dask-webinar-2018-11/master
 
