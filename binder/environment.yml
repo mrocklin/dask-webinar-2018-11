@@ -1,0 +1,26 @@
+name: pangeo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - xarray
+  - dask
+  - distributed
+  - dask-kubernetes
+  - gcsfs
+  - matplotlib
+  - numcodecs
+  - python-blosc
+  - lz4
+  - nomkl
+  - nbserverproxy
+  - jupyter
+  - jupyterlab=0.35
+  - jupyterlab_launcher
+  - jupyter_client
+  - ipywidgets
+  - graphviz
+  - nodejs
+  - pip:
+    - kubernetes
+    - graphviz
